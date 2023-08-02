@@ -1,1 +1,1 @@
-Test
+https://github.com/Junesky13/rsschool-cv/blob/gh-pages/cv.md
